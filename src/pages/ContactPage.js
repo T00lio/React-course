@@ -43,7 +43,7 @@ const ContactPage = () => {
                     <hr />
                 </Col>
                 <Col md='10'>
-                    <ContactForm/>
+                    <ContactForm />
                 </Col>
             </Row>
         </Container>

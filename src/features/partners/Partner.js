@@ -1,4 +1,3 @@
-
 const Partner = ({ partner }) => {
     if (partner) {
         const { image, name, description } = partner;
@@ -13,7 +12,6 @@ const Partner = ({ partner }) => {
         );
     }
     return null;
-
-}  
+};
 
 export default Partner;

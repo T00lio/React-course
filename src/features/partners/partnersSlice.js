@@ -5,5 +5,5 @@ export const selectAllPartners = () => {
 };
 
 export const selectFeaturedPartner = () => {
-    return PARTNERS.find((Partner) => Partner.featured);
+    return PARTNERS.find((partner) => partner.featured);
 };
